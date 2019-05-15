@@ -36,7 +36,6 @@ while(1)
         case 3 % next
             th = min([255 th+8]);
         case 4
-            th = round(op.relx*255);
-            
+            th = round(op.relx*255);            
     end
 end
