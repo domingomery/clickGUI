@@ -6,4 +6,12 @@ A very simple graphic user interface that can be designed using an excel file. I
 ![Example of XLS file](https://github.com/domingomery/clickGUI/blob/master/example_xls.png)
 
 With this definition, the output is the following GUI:
+
 ![Example of GUI](https://github.com/domingomery/clickGUI/blob/master/example_gui.png)
+
+The matlab code that controls the GUI is very simple:
+
+![Example of Matlab file](https://github.com/domingomery/clickGUI/blob/master/example_mfile.png)
+
+
+
